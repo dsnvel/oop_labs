@@ -1,0 +1,5 @@
+﻿  lab_5_first_part.cpp
+C:\Users\danil\Desktop\ООП\LAbs\Lab_5\first_part\lab_5_first_part\lab_5_first_part\lab_5_first_part.cpp(169,175): warning C4229: устаревший элемент: пропуск модификаторов для данных
+C:\Users\danil\Desktop\ООП\LAbs\Lab_5\first_part\lab_5_first_part\lab_5_first_part\lab_5_first_part.cpp(170,179): warning C4229: устаревший элемент: пропуск модификаторов для данных
+C:\Users\danil\Desktop\ООП\LAbs\Lab_5\first_part\lab_5_first_part\lab_5_first_part\lab_5_first_part.cpp(171,177): warning C4229: устаревший элемент: пропуск модификаторов для данных
+  lab_5_first_part.vcxproj -> C:\Users\danil\Desktop\ООП\LAbs\Lab_5\first_part\lab_5_first_part\x64\Debug\lab_5_first_part.exe
